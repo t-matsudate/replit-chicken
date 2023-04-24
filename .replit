@@ -1,0 +1,4 @@
+run = "csc main.scm && ./main"
+
+[nix]
+channel = "stable-22_11"
